@@ -102,4 +102,5 @@ AgeBin
 FareBin
 
 ✅ Summary
-The analysis suggests Pclass, Fare, and Sex are the most influential features in survival prediction. Proper handling of missing data and thoughtful feature engineering (like binning and encoding) are essential steps toward building an accurate model.
+
+The analysis suggests Pclass, Fare, and Sex are the most influential features in survival prediction. Proper handling of missing data and thoughtful feature engineering (like binning and encoding) are essential steps that are done here.
